@@ -1,5 +1,5 @@
 Counter-Strike 2 -- AutoFarm
-<img alt="html image example" src="/assets_tutorials/img/image.jpg"  width="120" height="75" />
+<img src="https://clan.steamstatic.com/images//4/3d5a18bccc9a5f994b5fd1c193d0a5c6b839e446.png"  width="120" height="75" />
 
 I created an autofarm on cs2!
 What is this one doing?! It automatically enters your farm dust2 servers and moves so as not to be excluded from the game for afk
