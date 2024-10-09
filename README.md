@@ -1,4 +1,4 @@
-<img src="https://clan.steamstatic.com/images//4/3d5a18bccc9a5f994b5fd1c193d0a5c6b839e446.png"  width="120" height="75" /><br><br>
+<img src="https://clan.steamstatic.com/images//4/3d5a18bccc9a5f994b5fd1c193d0a5c6b839e446.png"  width="120" height="75" />
 
 <h1>Counter-Strike 2 -- AutoFarm</h1>
 
